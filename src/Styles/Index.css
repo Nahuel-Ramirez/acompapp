@@ -1,0 +1,16 @@
+.container-index {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+.portada {
+  display: flex;
+  flex-direction: column;
+  object-fit: fill;
+}
+
+.presentacion p {
+  font-size: 18px;
+  padding: 0 55px;
+}

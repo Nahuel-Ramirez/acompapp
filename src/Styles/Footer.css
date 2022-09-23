@@ -1,0 +1,25 @@
+.container-footer {
+  position: fixed;
+  display: block;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer {
+  width: 100%;
+}
+
+.enlaces-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.enlaces-footer a:hover {
+  color: #f89b86;
+  transition: 0.3s all;
+}
+
+.footer p {
+  font-size: 12px;
+}
